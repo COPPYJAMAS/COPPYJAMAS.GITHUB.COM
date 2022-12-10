@@ -64,13 +64,13 @@ body {
     font-size: 60px;
     font-weight: 600;
     text-transform: uppercase;
-    color: #fff;
+    color: rgba(238, 14, 189, 0.897);
 }
 
 p {
     margin-bottom: 40px;
     font-size: 18px;
-    color: #fff;
+    color: #a41c54;
     padding: 0 150px;
 }
 
